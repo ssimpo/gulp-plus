@@ -1,0 +1,37 @@
+{
+  "name": "@simpo/gulp-plus",
+  "description": "Framework for running gulp tasks.",
+  "author": "Whitebolt <hello@whitebolt.net",
+  "contributors": [
+    {
+      "name": "Stephen Simpson",
+      "email": "stephen@whitebolt.net"
+    },
+    {
+      "name": "Kristjan Allikas",
+      "email": "kris@whitebolt.net"
+    }
+  ],
+  "version": "0.1.0",
+  "keywords": [
+    "gulp"
+  ],
+  "peerDependencies": {
+    "gulp4": "^4.0.2"
+  },
+  "dependencies": {
+    "yargs": "^11.0.0"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ssimpo/bolt-server.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp4": "^4.0.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {}
+}
