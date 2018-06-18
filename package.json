@@ -20,6 +20,7 @@
     "gulp4": "^4.0.2"
   },
   "dependencies": {
+    "lodash.forown": "^4.4.0",
     "lodash.isfunction": "^3.0.9",
     "lodash.isobject": "^3.0.2",
     "lodash.isstring": "^4.0.1",
